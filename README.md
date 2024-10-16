@@ -1,11 +1,11 @@
 ###### Nome dos integrantes
 
-- Jeanderson Bianchi Vieira;
-- Paulo Henrique Vianna;
-- Kamylla Lopes Dornelas;
-- Matheus Luciano De Queiroz;
-- Thallys Rafler Ribeiro Rodrigues;
-- Hércules Sebastião Dias Rossi;
+- Jeanderson Bianchi Vieira,
+- Paulo Henrique Vianna,
+- Kamylla Lopes Dornelas,
+- Matheus Luciano De Queiroz,
+- Thallys Rafler Ribeiro Rodrigues,
+- Hércules Sebastião Dias Rossi.
 
 ###### The Networker Girl - A história da garota que salvou o mundo
 
