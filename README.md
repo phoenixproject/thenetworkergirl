@@ -21,5 +21,6 @@ The Networker Girl, uma jovem especialista em redes de computadores que, após r
 
 Ao longo da história, The Networker Girl enfrenta não só os desafios técnicos do ataque, mas também pressões pessoais e sociais, como o preconceito em relação ao seu papel de destaque como mulher na área de tecnologia. No entanto, com inteligência e resiliência, ela coordena uma resposta global, unindo especialistas de diversas culturas e áreas de conhecimento. No clímax, Lia usa sua plataforma inovadora de redes sociais para mobilizar rapidamente recursos e ideias ao redor do mundo, culminando em uma solução colaborativa que não só neutraliza a ameaça, mas também demonstra o poder da cooperação tecnológica. Assim, The Networker Girl, se estabelece como a heroína que salvou o mundo, tanto no campo digital quanto no humano.
 
+###### Link do Projeto
 
 ##### [Projeto: The Networker Girl](https://github.com/users/phoenixproject/projects/2/)<br/>
