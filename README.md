@@ -26,3 +26,4 @@ Ao longo da história, The Networker Girl enfrenta não só os desafios técnico
 ##### [Projeto: The Networker Girl](https://github.com/users/phoenixproject/projects/2/)<br/>
 
 #### Sprint 01
+![Alt text](https://github.com/phoenixproject/thenetworkergirl/blob/master/_MEDIA/1.png?raw=true "Descrição do arquivo")
