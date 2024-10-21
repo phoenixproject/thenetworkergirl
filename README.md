@@ -32,3 +32,5 @@ Ao longo da história, The Networker Girl enfrenta não só os desafios técnico
 ![Alt text](https://github.com/phoenixproject/thenetworkergirl/blob/master/_MEDIA/4.png?raw=true "Descrição do arquivo")
 ![Alt text](https://github.com/phoenixproject/thenetworkergirl/blob/master/_MEDIA/5.png?raw=true "Descrição do arquivo")
 ![Alt text](https://github.com/phoenixproject/thenetworkergirl/blob/master/_MEDIA/6.png?raw=true "Descrição do arquivo")
+![Alt text](https://github.com/phoenixproject/thenetworkergirl/blob/master/_MEDIA/7.png?raw=true "Descrição do arquivo")
+
