@@ -34,5 +34,57 @@ Ao longo da história, The Networker Girl enfrenta não só os desafios técnico
 ![Alt text](https://github.com/phoenixproject/thenetworkergirl/blob/master/_MEDIA/6.png?raw=true "Descrição do arquivo")
 ![Alt text](https://github.com/phoenixproject/thenetworkergirl/blob/master/_MEDIA/7.png?raw=true "Descrição do arquivo")
 
-##### Semana 10 - Alteração
+##### Semana 10 - Sprint Planning
 
+###### Roteiro do Primeiro Capítulo
+
+Uma jovem é contratada por uma grande agência de Redes e Monitoramento de dados e num ambiente dominado por analistas de redes experientes e em seu primeiro dia de trabalho é vista com olhares de desconfiança sobre seu potencial.
+
+###### Criação dos Personagens Principais
+
+- Ada (The Networker Girl)
+- Agente X (Administradora de Redes)
+- Oscar Primus (Administrador de Rede)
+
+###### Design Visual dos Personagens e Cenários
+
+![Alt text](https://github.com/phoenixproject/thenetworkergirl/blob/master/_MEDIA/empresa_monitoramento_dados_01.jpeg?raw=true "Empresa (visual 1)")
+
+![Alt text](https://github.com/phoenixproject/thenetworkergirl/blob/master/_MEDIA/empresa_monitoramento_dados_02.jpeg?raw=true "Empresa (visual 2)")
+
+###### Diagramação e Layout da Primeira Cena
+
+![Alt text](https://github.com/phoenixproject/thenetworkergirl/blob/master/_MEDIA/personagem_agente_x_entrando_na_empresa.jpeg?raw=true "Personagem Agent X entrando na empresa")
+
+###### Revisão e Ajustes
+
+Por enquanto não há ajustes.
+
+##### Semana 11 - Sprint Planning
+
+###### Roteiro do Segundo Capítulo
+
+A jovem é apresentada a uma moça misteriosa que atende pelo nome de Agente X e que a orientará a respeito de quais VLANs poderá entrar e quais rotas terá sempre que proteger.
+
+###### Criação dos Personagens Figurantes
+
+- Thaís (Informante de empresa rival disfaçada de moça da limpeza)
+- Estagiária gótica (Não tem seu nome revelado e nem conversa com as pessoas porque vive em redes sociais)
+- Estagiária Jill (Não conversa com ninguém também e vive fazendo scripts em bash)
+- Telonius (Homem de preto que fica andando entre os corredores observando se há algum estranho no prédio rondando).
+
+![Alt text](https://github.com/phoenixproject/thenetworkergirl/blob/master/_MEDIA/personagem_estagiaria_de_redes_gotica.jpeg?raw=true "Estigiária gótica")
+
+![Alt text](https://github.com/phoenixproject/thenetworkergirl/blob/master/_MEDIA/personagem_estagiaria_de_redes_jill.jpeg?raw=true "Estigiária Jill")
+
+###### Design Visual do mundo exterior
+
+![Alt text](https://github.com/phoenixproject/thenetworkergirl/blob/master/_MEDIA/cidade_atendida_pela_empresa_de_monitoramento.jpg?raw=true "Cidade projetada por IA da empresa de monitorameto de redes")
+
+###### Diagramação e Layout da Segunda Cena
+
+![Alt text](https://github.com/phoenixproject/thenetworkergirl/blob/master/_MEDIA/personagem_oscar_primus_entrando_no_tunel_de_divisao_de_realidade.jpeg?raw=true "Personagem Oscar Primus entrando no túnel de Divisão de Realidade")
+
+###### Revisão e Ajustes
+
+Foram incluídos alguns novos personagens e cenários.
