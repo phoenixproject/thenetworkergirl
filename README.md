@@ -81,6 +81,8 @@ A jovem é apresentada a uma moça misteriosa que atende pelo nome de Agente X e
 
 ![Alt text](https://github.com/phoenixproject/thenetworkergirl/blob/master/_MEDIA/cidade_atendida_pela_empresa_de_monitoramento.jpg?raw=true "Cidade projetada por IA da empresa de monitorameto de redes")
 
+![Alt text](https://github.com/phoenixproject/thenetworkergirl/blob/master/_MEDIA/cidade_atendida_pela_empresa_de_monitoramento.jpg?raw=true "Cidade projetada por IA da empresa de monitorameto de redes")
+
 ###### Diagramação e Layout da Segunda Cena
 
 ![Alt text](https://github.com/phoenixproject/thenetworkergirl/blob/master/_MEDIA/personagem_oscar_primus_entrando_no_tunel_de_divisao_de_realidade.jpeg?raw=true "Personagem Oscar Primus entrando no túnel de Divisão de Realidade")
